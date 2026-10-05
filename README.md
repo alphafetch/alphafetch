@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I write C++ and Python, mainly games, simulations, and other low-level side-projects.
+I write C++ and Python (and sometimes JavaScript), mainly games, simulations, and other low-level side-projects.
 
 - I make projects in my free time to gain experience
 
