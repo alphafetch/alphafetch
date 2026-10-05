@@ -4,4 +4,4 @@ I write C++ and Python (and sometimes JavaScript), mainly games, simulations, an
 
 - I make projects in my free time to gain experience
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=alphafetch&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alphafetch&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
