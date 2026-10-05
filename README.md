@@ -1,4 +1,4 @@
-## Hello!
+## Hello! 👋
 
 I write C++ and Python, mainly games, simulations, and other low-level side-projects.
 
