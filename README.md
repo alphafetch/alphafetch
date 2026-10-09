@@ -2,10 +2,11 @@
 
 I write C++ and Python (and sometimes JavaScript), mainly games, simulations, and other low-level side-projects. I make projects in my free time to gain experience.
 
-**GitHub Streak**:
+**GitHub Stats**:
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=alphafetch&theme=tokyonight-duo&hide_border=true&border_radius=4" alt="GitHub Streak" /></a>
+<div style="display: flex">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alphafetch&theme=transparent&hide_border=true&border_radius=4" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alphafetch&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+</div>
 
-**Tech Stack**:
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alphafetch&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphafetch&hide_border=true&theme=transparent&layout=pie&custom_title=Tech+Stack" alt="Languages Used" />
