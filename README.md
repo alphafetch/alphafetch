@@ -10,3 +10,12 @@ I write C++ and Python (and sometimes JavaScript), mainly games, simulations, an
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphafetch&hide_border=true&theme=transparent&layout=pie&custom_title=Tech+Stack" alt="Languages Used" />
+
+**Complete Projects**:
+- PomodoroTimer
+
+**In Progress**:
+- PrintTracker
+- AtomicSimulator
+- ConsoleTCG
+- Axis
