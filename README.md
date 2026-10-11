@@ -11,8 +11,8 @@ I write C++ and Python (and sometimes JavaScript), mainly games, simulations, an
 - PomodoroTimer
 
 **In Progress** (in order of completion priority):
-- Axis - A small header-only math library for C++.
-- ConsoleTCG - A TCG held exclusively in your console, created in Python.
+- **Axis** - A small header-only math library for C++.
+- **ConsoleTCG** - A TCG held exclusively in your console, created in Python.
 
 **Tech Stack**:
 
