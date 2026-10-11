@@ -13,11 +13,9 @@ I write C++ and Python (and sometimes JavaScript), mainly games, simulations, an
 **Complete Projects**:
 - PomodoroTimer
 
-**In Progress**:
-- PrintTracker
-- AtomicSimulator
-- ConsoleTCG
+**In Progress** (in order of completion priority):
 - Axis
+- ConsoleTCG
 
 **Tech Stack**:
 
