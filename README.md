@@ -8,10 +8,10 @@ I write C++ and Python (and sometimes JavaScript), mainly games, simulations, an
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphafetch&hide_border=true&theme=transparent&layout=pie&custom_title=Tech+Stack" alt="Languages Used" />
 
 **Complete Projects**:
-- PomodoroTimer
+- **PomodoroTimer** - A small pomodoro timer for a group I'm in.
+- **Axis** - A small header-only math library for C++.
 
 **In Progress** (in order of completion priority):
-- **Axis** - A small header-only math library for C++.
 - **ConsoleTCG** - A TCG held exclusively in your console, created in Python.
 
 **Tech Stack**:
