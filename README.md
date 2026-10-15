@@ -16,4 +16,4 @@ I write C++ and Python (and sometimes JavaScript), mainly games, simulations, an
 
 **Tech Stack**:
 
-[![Tech Stack](https://skillicons.dev/icons?i=cpp,py,c,js,html,css,git)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=cpp,py,c,js,html,css,git,rust)](https://skillicons.dev)
