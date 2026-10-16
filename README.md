@@ -9,7 +9,7 @@ I write C, C++, Rust, and Python (and sometimes JavaScript), mainly games, simul
 
 <details>
   <summary><b>Projects</b></summary>
-  
+  <br>
   <b>Complete Projects</b>:
   
   <ul>
