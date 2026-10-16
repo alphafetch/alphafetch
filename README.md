@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I write C++, Rust, and Python (and sometimes JavaScript), mainly games, simulations, and other low-level side-projects. I make projects in my free time to gain experience, and I'm currently in high school.
+I write C, C++, Rust, and Python (and sometimes JavaScript), mainly games, simulations, and other low-level side-projects. I make projects in my free time to gain experience, and I'm currently in high school.
 
 <details>
   <summary><b>GitHub Stats</b></summary>
