@@ -27,4 +27,14 @@ I write C, C++, Rust, and Python (and sometimes JavaScript), mainly games, simul
 
 **Tech Stack**:
 
-[![Tech Stack](https://skillicons.dev/icons?i=cpp,py,c,js,html,css,git,rust)](https://skillicons.dev)
+*Fluent* (understand concepts and standard libraries fluently and have built a project):
+
+[![Tech Stack](https://skillicons.dev/icons?i=py,cpp,git,html)](https://skillicons.dev)
+
+*Proficient* (still learning but have built in):
+
+[![Tech Stack](https://skillicons.dev/icons?i=css,js)](https://skillicons.dev)
+
+*Conceptual* (but planning to build in):
+
+[![Tech Stack](https://skillicons.dev/icons?i=c,rust)](https://skillicons.dev)
