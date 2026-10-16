@@ -11,7 +11,7 @@ I write C, C++, Rust, and Python (and sometimes JavaScript), mainly games, simul
   <summary><b>Projects</b></summary>
   <br>
   <b>Complete Projects</b>:
-  
+  <br><br>
   <ul>
     <li><b>PomodoroTimer</b> - A small pomodoro timer for a group I'm in.</li>
     <li><b>Axis</b> - A small header-only math library for C++.</li>
