@@ -20,6 +20,7 @@ I write C++ and Python (and sometimes JavaScript), mainly games, simulations, an
   <b>In Progress</b> (in order of completion priority):
 
   <ul>
+    <li><b>Chasm</b> - A compiled language based off of C and C++.</li>
     <li><b>ConsoleTCG</b> - A TCG held exclusively in your console, created in Python.</li>
   </ul>
 
@@ -33,8 +34,8 @@ I write C++ and Python (and sometimes JavaScript), mainly games, simulations, an
 
 *Proficient* (still learning but have built in):
 
-[![Tech Stack](https://skillicons.dev/icons?i=css,js)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=css,c,js)](https://skillicons.dev)
 
 *Conceptual* (but planning to build in):
 
-[![Tech Stack](https://skillicons.dev/icons?i=c,rust)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
