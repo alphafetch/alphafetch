@@ -28,7 +28,7 @@ I write C++ and Python (and sometimes JavaScript), mainly games, simulations, an
 
 **Tech Stack**:
 
-*Fluent* (understand concepts and standard libraries fluently and have built a project):
+*Fluent* (understand concepts and standard libraries fluently and have built a finished project):
 
 [![Tech Stack](https://skillicons.dev/icons?i=py,cpp,git,html)](https://skillicons.dev)
 
