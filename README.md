@@ -50,7 +50,7 @@ Nothing right now.
 
 ## 🎯 What I'm Learning or Exploring Next
 
-[![Tech Stack](https://skillicons.dev/icons?i=rust,go,zig,ruby,fortran)](https://skillicons.dev) <br>
+[![Tech Stack](https://skillicons.dev/icons?i=go,zig,ruby,fortran)](https://skillicons.dev) <br>
 & x86-64 Assembly
 
 ---
