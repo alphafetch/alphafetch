@@ -36,6 +36,6 @@ I write C++ and Python (and sometimes JavaScript), mainly games, simulations, an
 
 [![Tech Stack](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
-*Conceptual* (but planning to build in):
+*Conceptual* (understand concepts and planning to build in):
 
 [![Tech Stack](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
