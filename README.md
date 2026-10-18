@@ -20,7 +20,7 @@ I write C++ and Python (and sometimes JavaScript), mainly games, simulations, an
   <b>In Progress</b> (in order of completion priority):
 
   <ul>
-    <li><b>Chasm</b> - A compiled language based off of C and C++.</li>
+    <li><b>Chasm</b> - A compiled language loosely based off of C and C++.</li>
     <li><b>ConsoleTCG</b> - A TCG held exclusively in your console, created in Python.</li>
   </ul>
 
