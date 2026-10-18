@@ -30,11 +30,11 @@ I write C++ and Python (and sometimes JavaScript), mainly games, simulations, an
 
 *Fluent* (understand concepts and standard libraries fluently and have built a finished project):
 
-[![Tech Stack](https://skillicons.dev/icons?i=py,cpp,git,html)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=py,cpp,git,html,css,js)](https://skillicons.dev)
 
-*Proficient* (still learning but have built in):
+*Proficient* (still learning but have built in/building in):
 
-[![Tech Stack](https://skillicons.dev/icons?i=css,c,js)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
 *Conceptual* (but planning to build in):
 
