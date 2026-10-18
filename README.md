@@ -32,7 +32,7 @@ I write **C++**, **C** and **Python** (and sometimes **JavaScript**), mainly gam
 
 *Fluent* (understand concepts and standard libraries fluently and have built a finished project):
 
-[![Tech Stack](https://skillicons.dev/icons?i=py,cpp,git,html,css,js)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=py,cpp,html,css,js)](https://skillicons.dev)
 
 *Proficient* (still learning but have built in/building in):
 
@@ -42,3 +42,12 @@ I write **C++**, **C** and **Python** (and sometimes **JavaScript**), mainly gam
 
 Nothing right now.
 <!-- [![Tech Stack](https://skillicons.dev/icons?i=)](https://skillicons.dev) -->
+
+*What I'm Learning or Exploring Next*:
+
+[![Tech Stack](https://skillicons.dev/icons?i=rust,go,zig,ruby,fortran)](https://skillicons.dev) <br>
+& x86-64 Assembly
+
+*Tools I Use*:
+
+[![Tools](https://skillicons.dev/icons?i=git,bash,vscode,windows,linux,neovim,github,cloudflare)](https://skillicons.dev)
