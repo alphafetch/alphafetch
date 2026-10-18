@@ -23,7 +23,7 @@ I write **C++**, **C** and **Python** (and sometimes **JavaScript**), mainly gam
   <b>📋 In Progress</b> (in order of completion priority):
 
   <ul>
-    <li><b><a href="https://github.com/alphafetch/Chasm">Chasm</a></b> - A compiled language loosely based off of C and C++.</li>
+    <li><b><a href="https://github.com/alphafetch/Chasm">Chasm</a></b> - A compiled language loosely based on C and C++.</li>
     <li><b><a href="https://github.com/alphafetch/ConsoleTCG">ConsoleTCG</a></b> - A TCG held exclusively in your console, created in Python.</li>
   </ul>
 
