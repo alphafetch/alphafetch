@@ -35,7 +35,7 @@ I write **C++**, **C** and **Python** (and sometimes **JavaScript**), mainly gam
 
 *Fluent* (understand concepts and standard libraries fluently and have built a finished project):
 
-[![Tech Stack](https://skillicons.dev/icons?i=py,cpp,html,css,js,git)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=py,cpp,html,css,js)](https://skillicons.dev)
 
 *Proficient* (still learning but have built in/building in):
 
