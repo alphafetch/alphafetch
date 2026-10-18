@@ -16,7 +16,7 @@ I write **C++**, **C** and **Python** (and sometimes **JavaScript**), mainly gam
   <ul>
     <li><b><a href="https://github.com/alphafetch/PomodoroTimer">PomodoroTimer</a></b> - A small pomodoro timer for a group I'm in.</li>
     <li><b><a href="https://github.com/alphafetch/Axis">Axis</a></b> - A small header-only math library for C++.</li>
-    <li><b><a href="https://github.com/alphafetch/HexDumper">HexDumper</a></b> - A hex dumper made as a capstone for my Rust course</li>
+    <li><b><a href="https://github.com/alphafetch/HexDumper">HexDumper</a></b> - A hex dumper made as a capstone for my Rust course.</li>
   </ul>
   
   <b>In Progress</b> (in order of completion priority):
