@@ -34,8 +34,9 @@ I write C++ and Python (and sometimes JavaScript), mainly games, simulations, an
 
 *Proficient* (still learning but have built in/building in):
 
-[![Tech Stack](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=c,rust)](https://skillicons.dev)
 
 *Conceptual* (understand concepts and planning to build in):
 
-[![Tech Stack](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
+Nothing right now.
+<!-- [![Tech Stack](https://skillicons.dev/icons?i=)](https://skillicons.dev) -->
