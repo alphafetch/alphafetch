@@ -2,6 +2,7 @@
 
 I write **C++**, **C** and **Python** (and sometimes **JavaScript**), mainly games, simulations, and other low-level side-projects. I make projects in my free time to gain experience, and I'm currently in high school.
 
+---
 <details>
   <summary><b>⌨️ GitHub Stats</b></summary>
   <img src="https://github-readme-stats.vercel.app/api?username=alphafetch&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
@@ -28,6 +29,8 @@ I write **C++**, **C** and **Python** (and sometimes **JavaScript**), mainly gam
 
 </details>
 
+---
+
 ## ⚙️ Tech Stack
 
 *Fluent* (understand concepts and standard libraries fluently and have built a finished project):
@@ -43,10 +46,14 @@ I write **C++**, **C** and **Python** (and sometimes **JavaScript**), mainly gam
 Nothing right now.
 <!-- [![Tech Stack](https://skillicons.dev/icons?i=)](https://skillicons.dev) -->
 
+---
+
 ## 🎯 What I'm Learning or Exploring Next
 
 [![Tech Stack](https://skillicons.dev/icons?i=rust,go,zig,ruby,fortran)](https://skillicons.dev) <br>
 & x86-64 Assembly
+
+---
 
 ## 🛠️ Tools I Use
 
