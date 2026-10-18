@@ -35,11 +35,11 @@ I write **C++**, **C** and **Python** (and sometimes **JavaScript**), mainly gam
 
 *Fluent* (understand concepts and standard libraries fluently and have built a finished project):
 
-[![Tech Stack](https://skillicons.dev/icons?i=py,cpp,html,css,js)](https://skillicons.dev)
+[![Python, C++, HTML, CSS, JS](https://skillicons.dev/icons?i=py,cpp,html,css,js)](https://skillicons.dev)
 
 *Proficient* (still learning but have built in/building in):
 
-[![Tech Stack](https://skillicons.dev/icons?i=c,rust)](https://skillicons.dev)
+[![C, Rust](https://skillicons.dev/icons?i=c,rust)](https://skillicons.dev)
 
 *Conceptual* (understand concepts and planning to build in):
 
@@ -50,11 +50,11 @@ Nothing right now.
 
 ## 🎯 What I'm Learning or Exploring Next
 
-[![Tech Stack](https://skillicons.dev/icons?i=go,zig,ruby,fortran)](https://skillicons.dev) <br>
+[![Go, Zig, Ruby, Fortran](https://skillicons.dev/icons?i=go,zig,ruby,fortran)](https://skillicons.dev) <br>
 & x86-64 Assembly
 
 ---
 
 ## 🛠️ Tools I Use
 
-[![Tools](https://skillicons.dev/icons?i=git,bash,vscode,windows,linux,neovim,github,cloudflare)](https://skillicons.dev)
+[![Git, Bash, VSCode, Windows, Linux, NeoVim, GitHub, Cloudflare](https://skillicons.dev/icons?i=git,bash,vscode,windows,linux,neovim,github,cloudflare)](https://skillicons.dev)
